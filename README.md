@@ -14,6 +14,6 @@ Source data dn code requests should be addressed to [Prof. Renate Pichler](mailt
 
 Please download the [HTLM presentation](https://github.com/PiotrTymoszuk/BLCA_cluster_supplements/blob/main/supplementary_material_paper1.html) with Supplementary Material and open it in your web browser. 
 
-PDF files with figures and supplementary figures, and an Excel files with tables supplementary tables are available from the [folder](https://github.com/PiotrTymoszuk/BLCA_cluster_supplements/blob/main/files).
+PDF files with figures and supplementary figures, and Excel files with tables supplementary tables are available from the [folder](https://github.com/PiotrTymoszuk/BLCA_cluster_supplements/blob/main/files).
 
 The analysis pipelines are available as GitHub repositories [BLCA-cluster-paper](https://github.com/PiotrTymoszuk/BLCA-cluster-paper) and [BLCA_subset_schemes](https://github.com/PiotrTymoszuk/BLCA_subset_schemes).
