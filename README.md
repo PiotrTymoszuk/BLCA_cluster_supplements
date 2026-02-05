@@ -7,7 +7,7 @@ This site provides an interactive standalone HTML presentation with Supplementar
 ## Terms of use 
 
 The repository is open-source under a [GPL-3 license](https://github.com/PiotrTymoszuk/BLCA_cluster_supplements/blob/main/LICENSE). 
-Source data dn code requests should be addressed to [Prof. Renate Pichler](mailto:Renate.Pichler@i-med.ac.at) or [Prof. Zoran Culig](mailto:Zoran.Culig@i-med.ac.at). The repository maintainer is [Piotr Tymoszuk](mailto:piotr.s.tymoszuk@gmail.com).
+Source data and code requests should be addressed to [Prof. Renate Pichler](mailto:Renate.Pichler@i-med.ac.at) or [Prof. Zoran Culig](mailto:Zoran.Culig@i-med.ac.at). The repository maintainer is [Piotr Tymoszuk](mailto:piotr.s.tymoszuk@gmail.com).
 
 
 ## Usage
